@@ -9,11 +9,11 @@ This repository contains the `ambitus-rat-behaviour-dataset` project, which is d
 ### How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Patkanyok.git
+    git clone https://github.com/szegedai/ambitus-rat-behaviour-dataset.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Patkanyok
+    cd ambitus-rat-behaviour-dataset
     ```
 3. Install dependencies:
     ```bash
