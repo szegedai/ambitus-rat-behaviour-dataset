@@ -3,8 +3,10 @@
 This repository contains the `ambitus-rat-behaviour-dataset` project, which is designed for managing and analyzing data related to rats. It includes scripts, datasets, and documentation to facilitate research and experimentation.
 
 ### Folder Structure
-- **data/**: Contains datasets used in the project.
-- **scripts/**: Includes Python scripts for data processing and analysis.
+- **raw/**: Contains the raw datasets used in the project.
+- **processed/**: Contains the processed datasets used in the project.
+- **results/**: Contains images, pdf, processed datasets as a results in the project.
+- **/**: Includes Python scripts(Notebooks) for data processing and analysis.
 
 ### How to Use
 1. Clone the repository:
@@ -19,7 +21,7 @@ This repository contains the `ambitus-rat-behaviour-dataset` project, which is d
     ```bash
     pip install -r requirements.txt
     ```
-4. Run the scripts in the `scripts/` folder to process and analyze the data.
+4. Run the scripts in the `/` folder to process and analyze the data.
 
 ### Contributions
 Feel free to contribute by submitting pull requests or reporting issues.
