@@ -1,24 +1,24 @@
 
-# 🧪 Ambitus Rat Behaviour Dataset
+# Ambitus Rat Behaviour Dataset
 
 This repository provides access to a large-scale, multi-generational dataset collected using the **Ambitus behavioural testing protocol** in rats. The dataset enables the analysis of exploratory behaviour, motivation, learning, and cognitive flexibility in rodent models over time, including **transgenerational trends**.
 
 ---
 
-## 🧬 What is the Ambitus Protocol?
+## What is the Ambitus Protocol?
 
 The **Ambitus test** is a high-throughput behavioural paradigm developed to assess:
 
-- 🧭 **Exploration**: how actively and persistently animals explore new environments  
-- 🎯 **Motivation**: latency and engagement in goal-directed tasks  
-- 🧠 **Learning capacity**: ability to adapt to reinforcement structures  
-- 🔄 **Cognitive control**: trade-offs between exploration and exploitation across trials  
+- **Exploration**: how actively and persistently animals explore new environments  
+- **Motivation**: latency and engagement in goal-directed tasks  
+- **Learning capacity**: ability to adapt to reinforcement structures  
+- **Cognitive control**: trade-offs between exploration and exploitation across trials  
 
 Each rat performs multiple trials in a sensor-equipped arena with controlled stimuli and reward feedback. The setup allows detailed, repeatable measurements and enables robust cross-generational comparisons.
 
 ---
 
-## 📊 What's in the Dataset?
+## What's in the Dataset?
 
 - **Subjects**: 1100+ rats across 14 generations  
 - **Groups**: Lisket (experimental) vs. LE (control)  
@@ -28,7 +28,7 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
   - **Raw data**: Trial-level, time-stamped metrics (parquet format)
   - **Processed data**: One-row-per-rat behavioral summaries (CSV)
 
-### 🧠 Feature Types
+### Feature Types
 
 - Total locomotion and exploration
 - Pre- and post-reward zone entries and durations
@@ -56,7 +56,7 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 ---
 
-## 🔧 How to Use
+## How to Use
 
 1. Clone the repo:
    ```bash
@@ -76,7 +76,7 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 ---
 
-## 📁 Outputs
+## Outputs
 
 - `ambitus_0_15_ml_ready_*.csv` – Flattened, clean per-subject dataset  
 - `feature_missingness.csv`, `fig_missing_bar.pdf` – Completeness reports  
@@ -85,7 +85,7 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 ---
 
-## 📜 Citation
+## Citation
 
 If you use this dataset in your research, please cite:
 
@@ -94,14 +94,14 @@ If you use this dataset in your research, please cite:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or collaboration:
-- 📧 korosi.gabor [at] inf.u-szeged.hu  
-- 🏫 University of Szeged – Institute of Informatics
+- korosi.gabor [at] inf.u-szeged.hu  
+- University of Szeged – Institute of Informatics
 
 ---
 
-## 🧠 Keywords
+## Keywords
 
 `rat behaviour`, `ambitus`, `multi-generational`, `exploration`, `motivation`, `learning`, `neuroscience`, `machine learning`, `ANOVA`, `phenotyping`
