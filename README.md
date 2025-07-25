@@ -1,6 +1,6 @@
-## Patkanyok Repository
+## Ambitus-rat-behaviour-dataset Repository
 
-This repository contains the `Patkanyok` project, which is designed for managing and analyzing data related to rats. It includes scripts, datasets, and documentation to facilitate research and experimentation.
+This repository contains the `ambitus-rat-behaviour-dataset` project, which is designed for managing and analyzing data related to rats. It includes scripts, datasets, and documentation to facilitate research and experimentation.
 
 ### Folder Structure
 - **data/**: Contains datasets used in the project.
