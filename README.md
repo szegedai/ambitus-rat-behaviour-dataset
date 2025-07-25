@@ -20,7 +20,7 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 ## What's in the Dataset?
 
-- **Subjects**: 1100+ rats across 14 generations  
+- **Subjects**: 1100+ rats across 16 generations (2012 – 2019). 
 - **Groups**: Lisket (experimental) vs. LE (control)  
 - **Collected via**: Ambitus platform, using motion sensors and automated data capture  
 - **Duration**: Multi-year experimental campaign with consistent protocol  
@@ -38,7 +38,7 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
