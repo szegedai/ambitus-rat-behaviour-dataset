@@ -89,15 +89,15 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 If you use this dataset in your research, please cite:
 
-> **Kőrösi G. et al.** *Transgenerational profiling of rat behaviour using the Ambitus protocol*.  
-> Nature Scientific Data (in review / forthcoming).
+> DOI: 10.5281/zenodo.16414893
 
 ---
 
 ## Contact
 
 For questions or collaboration:
-- korosi.gabor [at] inf.u-szeged.hu  
+- korosi.gabor [at] inf.u-szeged.hu
+- czimbalmos [at] inf.u-szeged.hu
 - University of Szeged – Institute of Informatics
 
 ---
