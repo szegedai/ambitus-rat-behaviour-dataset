@@ -60,8 +60,8 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/szegedai/ambitus-rat-behaviour-datase.git
-   cd ambitus-rat-behaviour-datase
+   git clone https://github.com/szegedai/ambitus-rat-behaviour-dataset.git
+   cd ambitus-rat-behaviour-dataset
    ```
 
 2. Open and explore notebooks in `/notebooks`:
