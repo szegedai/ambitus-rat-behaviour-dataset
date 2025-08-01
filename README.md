@@ -76,6 +76,12 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
 
 ---
 
+[![Open In Colab](
+  https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/szegedai/ambitus-rat-behaviour-dataset/blob/master/notebooks/technical_validation.ipynb
+)
+
+
 ## Outputs
 
 - `ambitus_0_15_ml_ready_*.csv` – Flattened, clean per-subject dataset  
