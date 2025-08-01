@@ -3,6 +3,15 @@
 
 This repository provides access to a large-scale, multi-generational dataset collected using the **Ambitus behavioural testing protocol** in rats. The dataset enables the analysis of exploratory behaviour, motivation, learning, and cognitive flexibility in rodent models over time, including **transgenerational trends**.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](
+  https://mybinder.org/v2/gh/szegedai/ambitus-rat-behaviour-dataset/master?labpath=notebooks%2Ftechnical_validation.ipynb
+)
+[![Open In Colab](
+  https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/szegedai/ambitus-rat-behaviour-dataset/blob/master/notebooks/technical_validation.ipynb
+)
+
+
 ---
 
 ## What is the Ambitus Protocol?
@@ -75,13 +84,6 @@ Each rat performs multiple trials in a sensor-equipped arena with controlled sti
    ```
 
 ---
-[![Binder](https://mybinder.org/badge_logo.svg)](
-  https://mybinder.org/v2/gh/szegedai/ambitus-rat-behaviour-dataset/master?labpath=notebooks%2Ftechnical_validation.ipynb
-)
-[![Open In Colab](
-  https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/szegedai/ambitus-rat-behaviour-dataset/blob/master/notebooks/technical_validation.ipynb
-)
 
 
 ## Outputs
