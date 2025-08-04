@@ -241,6 +241,7 @@ For questions or collaboration:
 | --- | --- | --- | --- |
 | Generation | Number of the generation where the rat belongs | Number (int or float) |  |
 | Season | The season when the animals were delivered | Date |  |
+| Paradigm | Types of tasks: Task1 or Task2 | Text (str) |  |
 | Year | Year of the experiment (0-15) | Number (int or float) |  |
 | NR | ID number of the animal | Text (str) |  |
 | Group | The group label of the rat | Number (int or float) |  |
