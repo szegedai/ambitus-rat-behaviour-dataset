@@ -134,7 +134,7 @@ For questions or collaboration:
 | Date_Ambitus | Date of Ambitus test | Date |  |
 | Year | Year of the experiment (0-6) | Number (int or float) |  |
 | NR | ID number of the animal | Text (str) |  |
-| Group | The group label of the rat | Number (int or float) |  |
+| Group | The group label of the rat | Text (str) |  |
 | Sex | Sex of the rat |  |  |
 | GR_Sex | The sex of the animals in the different groups together | Text (str) |  |
 | Trials | Number of trial | Number (int or float) |  |
@@ -244,7 +244,7 @@ For questions or collaboration:
 | Paradigm | Types of tasks: Task1 or Task2 | Text (str) |  |
 | Year | Year of the experiment (0-6) | Number (int or float) |  |
 | NR | ID number of the animal | Text (str) |  |
-| Group | The group label of the rat | Number (int or float) |  |
+| Group | The group label of the rat | Text (str) |  |
 | Sex | Sex of the rat |  |  |
 | EAT_E_% | The percentage of the collected rewards from the external boxes (number of collected rewards x 100)/8 (available rewards [8]) | % | At first trial |
 | EAT_I_% | The percentage of the collected rewards from the internal boxes (number of collected rewards x 100)/8 (available rewards [8]) | % | At first trial |
@@ -297,7 +297,7 @@ For questions or collaboration:
 | Eff_Expl_I | (Eat_I_Nr x 100)/(number of internal box visited [max:8]) | % | At first trial |
 | Eff_Expl_EI | (Eat_Tot_Nr x 100)/(number of box visited [max:16]) | % | At first trial |
 | E_E | Effective exploration.  (Eat_Nr x 100)/(number of box visited [max:16 for trials 1-2 and max:8 for trials 3-4]) | % | At first trial |
-| id | Unique identifier constructed from Group, NR and Generation | Number (int) |  |
+| id | Unique identifier constructed from Group, NR and Generation | Text (str) |  |
 | EAT_E_%_2 | The percentage of the collected rewards from the external boxes (number of collected rewards x 100)/8 (available rewards [8]) | % | At second trial |
 | EAT_I_%_2 | The percentage of the collected rewards from the internal boxes (number of collected rewards x 100)/8 (available rewards [8]) | % | At second trial |
 | EAT_TOT_%%_2 | The percentage of the collected rewards from all boxes (number of collected rewards x 100)/8 (available rewards [16]) | % | At second trial |
